@@ -8,8 +8,8 @@ public class BasicVariablesInitialization {
         first=1;
         second=10;
         third=100;
-        System.out.println("first="+first);
-        System.out.println("second="+second);
-        System.out.println("third="+third);
+        System.out.println(first);
+        System.out.println(second);
+        System.out.println(third);
     }
 }
